@@ -15,8 +15,6 @@ persistent and is read in upon startup. Words are stored along with their
 frequencies in the dictionary. Support is included for pruning the dictionary of 
 words that fall below a given threshold. The segmenter uses the dictionary along 
 with a maximum matching algorithm in order to determine word boundaries. 
-Additionally, the segmenter can perform automatic updates allowing it to 
-incorporate the latest lexicon.
 
 ## Usage
 
