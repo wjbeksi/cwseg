@@ -10,7 +10,7 @@ latest words that enter the lexicon.
 
 CWSEG [1] leverages content on the Internet to build a bootstrapping Chinese 
 word segmenter. Lexicon building works by employing an HTML parser. Chinese 
-words parsed from webpages are stored in a dictionary. This dictinary is 
+words parsed from webpages are stored in a dictionary. This dictionary is 
 persistent and is read in upon startup. Words are stored along with their 
 frequencies in the dictionary. Support is included for pruning the dictionary of 
 words that fall below a given threshold. The segmenter uses the dictionary along 
@@ -35,7 +35,7 @@ To build a lexicon dictionary run
 
     $ python html_feeder.py -l lex_dict.p -m 16 -d html_files
 
-where 'lex_dict.p' is the name of the lexicon dictionary, '16' is the maxium 
+where 'lex_dict.p' is the name of the lexicon dictionary, '16' is the maximum 
 word length, and 'html_files' is a directory of crawled HTML files containing 
 Chinese text.
 
