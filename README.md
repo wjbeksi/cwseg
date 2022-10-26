@@ -62,8 +62,8 @@ files and 'file_to_segment' is a UTF-8 encoded file of Chinese text.
 
 ## References
 
-[1] W.J. Beksi, "A Web-based Approach To Chinese Word Segmentation", The 14th 
-International Conference on the Processing of East Asian Languages (ICPEAL), 
-Nagoya, Japan, 2012.
+[1] W.J. Beksi, "A Web-based Approach To Chinese Word Segmentation," 
+Proceedings of the 14th International Conference on the Processing of East 
+Asian Languages (ICPEAL), Nagoya, Japan, 2012.
 
 [2] Heritrix: https://webarchive.jira.com/wiki/display/Heritrix
